@@ -1,0 +1,206 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				4,
+				-16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Rayan IDLE"
+		},
+		{
+			"offsets": [
+				14,
+				-8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Rayan UP"
+		},
+		{
+			"offsets": [
+				-20,
+				-2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Rayan DOWN"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "rayan ye!"
+		},
+		{
+			"offsets": [
+				-28,
+				-26
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Rayan RIGHT"
+		},
+		{
+			"offsets": [
+				21,
+				-12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Rayan LEFT"
+		},
+		{
+			"offsets": [
+				20,
+				-10
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "rayan-playable missLEFT"
+		},
+		{
+			"offsets": [
+				17,
+				-9
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "rayan-playable missUP"
+		},
+		{
+			"offsets": [
+				-28,
+				-24
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "rayan-playable missRIGHT"
+		},
+		{
+			"offsets": [
+				-20,
+				-2
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "rayan-playable missDOWN"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "dodge",
+			"indices": [],
+			"name": "rayan shield block"
+		},
+		{
+			"offsets": [
+				-31,
+				-10
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "hurt",
+			"indices": [],
+			"name": "rayan-playable hurt"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-481,
+				-61
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "rayan-playable firstDeath",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-481,
+				-61
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "rayan-playable deathLoop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-481,
+				-61
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "rayan-playable deathConfirm",
+			"indices": []
+		}
+	],
+	"vocals_file": "rlplayable",
+	"losing_colors": [
+		255,
+		0,
+		0
+	],
+	"no_antialiasing": false,
+	"image": "characters/rayan-playable",
+	"shake_duration": 0,
+	"position": [
+		-800,
+		-80
+	],
+	"health_drain": false,
+	"shake_intensity": 0,
+	"healthicon": "rayan-playable",
+	"shake_screen": false,
+	"drain_floor": 0,
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"drain_amount": 0,
+	"camera_position": [
+		-250,
+		240
+	],
+	"sing_duration": 4,
+	"noteskin": null,
+	"winning_colors": [
+		255,
+		0,
+		0
+	],
+	"scale": 0.7
+}

@@ -1,0 +1,50 @@
+{
+	"storyName": "VS Rayan!",
+	"difficulties": "Easy, Normal, Hard, rayan, jvsilva",
+	"hideFreeplay": false,
+	"weekBackground": "tank",
+	"weekBefore": "week7",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"meeting",
+			"rayan",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"references",
+			"rayan",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"pain",
+			"rayan",
+			[
+				255,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"rayan",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Week RL"
+}

@@ -1,0 +1,63 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		0,
+		50
+	],
+	"scale": 0.95,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				638,
+				280
+			],
+			"idle_offsets": [
+				638,
+				280
+			],
+			"loop_name": "Rayan_Dialogue talkLoop",
+			"idle_name": "Rayan_Dialogue idle"
+		},
+		{
+			"idle_offsets": [
+				638,
+				280
+			],
+			"anim": "confused",
+			"loop_offsets": [
+				638,
+				280
+			],
+			"idle_name": "Rayan_Dialogue confusedIdle",
+			"loop_name": "Rayan_Dialogue confusedLoop"
+		},
+		{
+			"idle_offsets": [
+				638,
+				280
+			],
+			"anim": "sad",
+			"loop_offsets": [
+				638,
+				280
+			],
+			"idle_name": "Rayan_Dialogue sadIdle",
+			"loop_name": "Rayan_Dialogue sadLoop"
+		},
+		{
+			"loop_name": "Rayan_Dialogue impressedLoop",
+			"idle_offsets": [
+				638,
+				280
+			],
+			"idle_name": "Rayan_Dialogue impressedIdle",
+			"anim": "impressed",
+			"loop_offsets": [
+				638,
+				280
+			]
+		}
+	],
+	"image": "Rayan_Dialogue"
+}

@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Menu_Jvsilva.png">
+<SubTexture name="Menu_Jvsilva idle0000" x="0" y="0" width="851" height="943" frameX="-574" frameY="-83" frameWidth="1920" frameHeight="1080" />
+</TextureAtlas>

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="rayan-playable.png">
+<SubTexture name="Rayan LEFT0000" x="1060" y="0" width="489" height="913" frameX="-658" frameY="-57" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Rayan DOWN0000" x="2132" y="1872" width="517" height="694" frameX="-818" frameY="-291" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Rayan RIGHT0000" x="1346" y="960" width="532" height="889" frameX="-822" frameY="-80" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Rayan IDLE0000" x="900" y="960" width="446" height="907" frameX="-779" frameY="-68" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Rayan UP0000" x="0" y="0" width="530" height="960" frameX="-776" frameY="-23" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="rayan ye!0000" x="452" y="960" width="448" height="908" frameX="-755" frameY="-68" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="rayan shield block0000" x="2570" y="874" width="464" height="855" frameX="-765" frameY="-119" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="rayan-playable missLEFT0000" x="1549" y="0" width="489" height="913" frameX="-658" frameY="-57" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="rayan-playable missDOWN0000" x="1615" y="1872" width="517" height="696" frameX="-818" frameY="-289" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="rayan-playable missUP0000" x="530" y="0" width="530" height="960" frameX="-776" frameY="-23" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="rayan-playable missRIGHT0000" x="2038" y="0" width="532" height="889" frameX="-822" frameY="-80" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="rayan-playable hurt0000" x="2038" y="889" width="443" height="874" frameX="-739" frameY="-107" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="rayan-playable hurt0001" x="2570" y="0" width="467" height="874" frameX="-739" frameY="-107" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="rayan-playable hurt0002" x="0" y="1872" width="546" height="874" frameX="-739" frameY="-107" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="rayan-playable hurt0003" x="546" y="1872" width="524" height="874" frameX="-739" frameY="-107" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="rayan-playable hurt0004" x="1070" y="1872" width="545" height="874" frameX="-739" frameY="-107" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="rayan-playable firstDeath0000" x="0" y="960" width="452" height="912" frameX="0" frameY="0" frameWidth="452" frameHeight="912" />
+<SubTexture name="rayan-playable deathLoop0000" x="0" y="960" width="452" height="912" frameX="0" frameY="0" frameWidth="452" frameHeight="912" />
+<SubTexture name="rayan-playable deathConfirm0000" x="0" y="960" width="452" height="912" frameX="0" frameY="0" frameWidth="452" frameHeight="912" />
+</TextureAtlas>

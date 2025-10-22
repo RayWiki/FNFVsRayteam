@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="rayan-and-jvsilva.png">
+<SubTexture name="rayan-and-jvsilva idle0000" x="2516" y="0" width="1196" height="943" frameX="-29" frameY="-51" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="rayan-and-jvsilva left0000" x="2516" y="943" width="1118" height="943" frameX="-29" frameY="-51" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="rayan-and-jvsilva right0000" x="0" y="2001" width="1325" height="943" frameX="-29" frameY="-51" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="rayan-and-jvsilva up0000" x="0" y="1030" width="1277" height="971" frameX="-29" frameY="-23" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="rayan-and-jvsilva down0000" x="1325" y="2001" width="1306" height="943" frameX="-29" frameY="-51" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="rayan-and-jvsilva altUP0000" x="0" y="0" width="1220" height="1030" frameX="-5" frameY="-9" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="rayan-and-jvsilva altLEFT0000" x="1277" y="1030" width="1224" height="970" frameX="-1" frameY="-68" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="rayan-and-jvsilva altRIGHT0000" x="3712" y="0" width="1223" height="941" frameX="-2" frameY="-68" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="rayan-and-jvsilva altDOWN0000" x="3712" y="941" width="1182" height="933" frameX="-43" frameY="-68" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="rayan-and-jvsilva missUp0000" x="1220" y="0" width="1296" height="1030" frameX="-10" frameY="-9" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="rayan-and-jvsilva missDown0000" x="3707" y="2944" width="1215" height="759" frameX="-80" frameY="-245" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="rayan-and-jvsilva missLeft0000" x="1225" y="2944" width="1150" height="928" frameX="-2" frameY="-83" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="rayan-and-jvsilva missRight0000" x="2375" y="2944" width="1332" height="919" frameX="-4" frameY="-94" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="rayan-and-jvsilva ye!0000" x="3712" y="1874" width="1176" height="931" frameX="-8" frameY="-76" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="rayan-and-jvsilva dodge0000" x="0" y="2944" width="1225" height="935" frameX="-4" frameY="-82" frameWidth="1920" frameHeight="1080" />
+</TextureAtlas>

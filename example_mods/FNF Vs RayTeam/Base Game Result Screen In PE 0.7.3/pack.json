@@ -1,0 +1,7 @@
+{
+	"name": "Base Game 0.4.0 (Result Screen)",
+	"description": "The Result Screen From 0.4.0 of the Base Game",
+	"restart":True,
+	"runsGlobally": true,
+	"color": [115, 94, 176]
+}

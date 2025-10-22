@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"ugh rayan mix",
+			"rayan-playable",
+			[
+				255,
+				0,
+				0
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "tank",
+	"difficulties": "",
+	"weekCharacters": [
+		"tankman",
+		"rayan-playable",
+		"gf"
+	],
+	"storyName": "ugh rayan mix!!",
+	"weekName": "Ugh Rayan Mix",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

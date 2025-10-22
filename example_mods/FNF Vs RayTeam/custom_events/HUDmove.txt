@@ -1,0 +1,5 @@
+
+Value 1:
+
+yes: the hud goes away in a sorta cool way,
+no: the same thing but in reverse.

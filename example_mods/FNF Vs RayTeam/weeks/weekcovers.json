@@ -1,0 +1,68 @@
+{
+	"storyName": "Vs Tankman,Cuphead Jvsilva and even Darnell!!!",
+	"difficulties": "rayan",
+	"hideFreeplay": false,
+	"weekBackground": "tank",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "weekjv",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"jvsilva",
+		"rayan-playable",
+		"tankman"
+	],
+	"songs": [
+		[
+			"ugh rayan mix",
+			"rayan",
+			[
+				30,
+				30,
+				30
+			]
+		],
+		[
+			"technicolor tussle",
+			"cuphead",
+			[
+				255,
+				0,
+				80
+			]
+		],
+		[
+			"knockout",
+			"AngryCuphead",
+			[
+				255,
+				0,
+				80
+			]
+		],
+		[
+			"animal jvsilva vs rayan",
+			"rayan-and-jvsilva",
+			[
+				255,
+				0,
+				80
+			]
+		],
+		[
+			"2hot",
+			"darnell",
+			[
+				175,
+				53,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Covers!!",
+	"hiddenUntilUnlocked": false
+}

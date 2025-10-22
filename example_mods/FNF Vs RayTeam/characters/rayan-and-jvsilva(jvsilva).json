@@ -1,0 +1,162 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				-16
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "rayan-and-jvsilva idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				5
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "rayan-and-jvsilva ye!",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				21,
+				-1
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "rayan-and-jvsilva missLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				-18
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "rayan-and-jvsilva missUp",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				14,
+				-4
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "rayan-and-jvsilva missRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				24,
+				-2
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "rayan-and-jvsilva missDown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				-16
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "rayan-and-jvsilva dodge",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				-16
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "rayan-and-jvsilva altUP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				-16
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "rayan-and-jvsilva altDOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				-16
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "rayan-and-jvsilva altRIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				-16
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "rayan-and-jvsilva altLEFT",
+			"indices": []
+		}
+	],
+	"vocals_file": "rlandjv",
+	"losing_colors": [
+		255,
+		0,
+		0
+	],
+	"no_antialiasing": false,
+	"image": "characters/rayan-and-jvsilva",
+	"shake_duration": 0,
+	"position": [
+		-800,
+		-80
+	],
+	"health_drain": false,
+	"shake_intensity": 0,
+	"healthicon": "rayan-and-jvsilva",
+	"shake_screen": false,
+	"drain_floor": 0,
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"drain_amount": 0,
+	"camera_position": [
+		-250,
+		240
+	],
+	"sing_duration": 4,
+	"noteskin": null,
+	"winning_colors": [
+		255,
+		0,
+		0
+	],
+	"scale": 0.7
+}

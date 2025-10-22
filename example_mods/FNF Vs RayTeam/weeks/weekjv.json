@@ -1,0 +1,41 @@
+{
+	"storyName": "vs jvsilva!",
+	"difficulties": "Easy, Normal, Hard, rayan, jvsilva",
+	"hideFreeplay": false,
+	"weekBackground": "tank",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "weekrl",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"jvsilva",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"sharpenized",
+			"jvsilva",
+			[
+				0,
+				255,
+				0
+			]
+		],
+		[
+			"Art skills",
+			"jvsilva",
+			[
+				0,
+				255,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week JV",
+	"hiddenUntilUnlocked": false
+}

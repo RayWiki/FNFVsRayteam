@@ -1,0 +1,76 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Camera Set Target",
+						"G",
+						""
+					]
+				]
+			],
+			[
+				1700,
+				[
+					[
+						"Camera Set Target",
+						"D",
+						""
+					]
+				]
+			],
+			[
+				5600,
+				[
+					[
+						"Camera Set Target",
+						"B",
+						""
+					]
+				]
+			],
+			[
+				8600,
+				[
+					[
+						"Camera Set Target",
+						"G",
+						""
+					]
+				]
+			],
+			[
+				9300,
+				[
+					[
+						"Camera Set Target",
+						"D",
+						""
+					]
+				]
+			],
+			[
+				12400,
+				[
+					[
+						"Camera Set Target",
+						"B",
+						""
+					]
+				]
+			],
+			[
+				17200,
+				[
+					[
+						"Camera Set Target",
+						"D",
+						""
+					]
+				]
+			]
+		]
+	}
+}

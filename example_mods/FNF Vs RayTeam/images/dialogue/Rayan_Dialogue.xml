@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Rayan_Dialogue.png">
+<SubTexture name="Rayan_Dialogue sadLoop0000" x="0" y="0" width="446" height="907" frameX="-779" frameY="-68" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Rayan_Dialogue sadLoop0001" x="446" y="0" width="446" height="907" frameX="-779" frameY="-68" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Rayan_Dialogue sadLoop0002" x="0" y="0" width="446" height="907" frameX="-779" frameY="-68" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Rayan_Dialogue confusedLoop0000" x="892" y="0" width="446" height="907" frameX="-779" frameY="-68" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Rayan_Dialogue talkLoop0000" x="1338" y="0" width="446" height="907" frameX="-779" frameY="-68" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Rayan_Dialogue confusedLoop0001" x="1784" y="0" width="446" height="907" frameX="-779" frameY="-68" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Rayan_Dialogue confusedLoop0002" x="892" y="0" width="446" height="907" frameX="-779" frameY="-68" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Rayan_Dialogue talkLoop0001" x="0" y="907" width="446" height="907" frameX="-779" frameY="-68" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Rayan_Dialogue talkLoop0002" x="0" y="907" width="446" height="907" frameX="-779" frameY="-68" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Rayan_Dialogue idle0000" x="446" y="907" width="446" height="907" frameX="-779" frameY="-68" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Rayan_Dialogue sadIdle0000" x="892" y="907" width="446" height="907" frameX="-779" frameY="-68" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Rayan_Dialogue confusedIdle0000" x="1338" y="907" width="446" height="907" frameX="-779" frameY="-68" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Rayan_Dialogue impressedIdle0000" x="1784" y="907" width="446" height="907" frameX="-779" frameY="-68" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Rayan_Dialogue impressedLoop0000" x="2230" y="0" width="446" height="907" frameX="-779" frameY="-68" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Rayan_Dialogue impressedLoop0001" x="2230" y="907" width="446" height="907" frameX="-779" frameY="-68" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Rayan_Dialogue impressedLoop0002" x="2230" y="907" width="446" height="907" frameX="-779" frameY="-68" frameWidth="1920" frameHeight="1080" />
+</TextureAtlas>

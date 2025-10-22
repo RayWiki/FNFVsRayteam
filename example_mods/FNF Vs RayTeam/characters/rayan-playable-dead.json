@@ -1,0 +1,74 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				749,
+				459
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "rayan-dead idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				749,
+				459
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "rayan-dead confirm"
+		},
+		{
+			"offsets": [
+				749,
+				460
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "firstDeath",
+			"loop": false,
+			"name": "rayan-dead idle"
+		}
+	],
+	"vocals_file": "",
+	"losing_colors": [
+		255,
+		0,
+		0
+	],
+	"no_antialiasing": false,
+	"image": "characters/rayan-dead",
+	"shake_duration": 0,
+	"position": [
+		0,
+		350
+	],
+	"health_drain": false,
+	"shake_intensity": 0,
+	"healthicon": "rayan-playable",
+	"shake_screen": false,
+	"drain_floor": 0,
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"drain_amount": 0,
+	"camera_position": [
+		420,
+		-210
+	],
+	"sing_duration": 4,
+	"noteskin": null,
+	"winning_colors": [
+		255,
+		0,
+		0
+	],
+	"scale": 0.7
+}

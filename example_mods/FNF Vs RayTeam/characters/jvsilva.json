@@ -1,0 +1,96 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				767,
+				151
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Jvsilva idle"
+		},
+		{
+			"offsets": [
+				823,
+				163
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Jvsilva left"
+		},
+		{
+			"offsets": [
+				768,
+				178
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Jvsilva down"
+		},
+		{
+			"offsets": [
+				723,
+				171
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Jvsilva up"
+		},
+		{
+			"offsets": [
+				717,
+				175
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Jvsilva right"
+		}
+	],
+	"vocals_file": "jvsilva",
+	"losing_colors": [
+		0,
+		255,
+		0
+	],
+	"no_antialiasing": false,
+	"image": "characters/jvsilva",
+	"shake_duration": 0,
+	"position": [
+		0,
+		0
+	],
+	"health_drain": false,
+	"shake_intensity": 0,
+	"healthicon": "jvsilva",
+	"shake_screen": false,
+	"drain_floor": 0,
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		255,
+		0
+	],
+	"drain_amount": 0,
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"noteskin": null,
+	"winning_colors": [
+		0,
+		255,
+		0
+	],
+	"scale": 0.7
+}

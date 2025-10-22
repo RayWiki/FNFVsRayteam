@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Menu_Rayan.png">
+<SubTexture name="Menu_Rayan idle0000" x="0" y="0" width="446" height="907" frameX="-779" frameY="-68" frameWidth="1920" frameHeight="1080" />
+</TextureAtlas>

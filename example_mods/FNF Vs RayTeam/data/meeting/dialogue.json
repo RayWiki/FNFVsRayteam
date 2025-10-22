@@ -1,0 +1,44 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "beep bop (wanna rap)"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "rayan",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ye sure!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "lets go!.."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "shocked",
+			"text": "I MEAN... beep bop"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "rayan",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "ok??"
+		}
+	]
+}

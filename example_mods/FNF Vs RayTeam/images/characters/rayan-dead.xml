@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="rayan-dead.png">
+<SubTexture name="rayan-dead idle0000" x="0" y="0" width="452" height="912" frameX="-776" frameY="-65" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="rayan-dead confirm0000" x="0" y="0" width="452" height="912" frameX="-776" frameY="-65" frameWidth="1920" frameHeight="1080" />
+</TextureAtlas>

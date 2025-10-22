@@ -1,0 +1,11 @@
+{
+	"confirm_anim": "Menu_Rayan",
+	"idle_anim": "Menu_Rayan",
+	"position": [
+		827,
+		354
+	],
+	"scale": 0.4,
+	"image": "Menu_Rayan",
+	"flipX": true
+}
